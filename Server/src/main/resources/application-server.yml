@@ -1,7 +1,7 @@
 spring:
   datasource:
     username: admin
-    url: jdbc:mysql://huijumain30.cwvzsuh16bdl.ap-northeast-2.rds.amazonaws.com:3306/huijumain30
+    url: jdbc:mysql://huijumain30.cwvzsuh16bdl.ap-northeast-2.rds.amazonaws.com:3306/huijumain30?useSSL=false&characterEncoding=UTF-8&serverTimezone=UTC
     password: 12345678
   mvc:
     pathmatch:
