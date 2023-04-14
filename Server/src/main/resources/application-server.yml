@@ -11,7 +11,7 @@ mail:
   address:
     admin: jinhuizu@gmail.com
 jwt:
-  secret-key: ${JWT_SECRET_KEY}
+  key: ${JWT_SECRET_KEY}
   access-token-expiration-minutes: 30
   refresh-token-expiration-minutes: 300
 redis:
