@@ -28,7 +28,7 @@ mail:
   address:
     admin: jinhuizu@gmail.com
 jwt:
-  key: main301234567818383737462928272181817273543353458973498679438698476945874962djngkdngkjkjgbdfjkbgdfjbgjrgdfrgrghskfjsdkfng
+  secret-key: ${JWT_SECRET_KEY}
   access-token-expiration-minutes: 30
   refresh-token-expiration-minutes: 300
 redis:
