@@ -11,7 +11,7 @@
 - **프로젝트 명 :** MENTALTAL
 - **프로젝트 기간 :** 2023.01.03 - 2023.01.31
 - **팀원 :** 정승연(팀장), 이세나, 최자영, 진희주, 김지현, 윤상원
-- **배포 링크 :** [💁🏻 배포 링크 ](http://mentaltal-s3-bucket.s3-website.ap-northeast-2.amazonaws.com/)
+- **배포 링크 :** [💁🏻 배포 링크 ](http://huijumain.s3-website.ap-northeast-2.amazonaws.com)
 
 <br />
 
