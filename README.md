@@ -72,7 +72,7 @@
 
 ### Tools
 | Git | Github |
-| :---: | :---: | :---: |
+| :---: | :---: |
 | <img alt="git logo" src="https://git-scm.com/images/logos/logomark-orange@2x.png" width="65" height="65" > | <img alt="github logo" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="65" height="65"> | 
 
 ### Front-end
